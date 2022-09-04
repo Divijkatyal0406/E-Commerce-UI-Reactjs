@@ -5,6 +5,7 @@ import styled from 'styled-components';
 const Container=styled.div`
     display: flex;
     padding: 10px;
+    background-color: lightgoldenrodyellow;
 `;
 const Left=styled.div`
     flex: 1;
